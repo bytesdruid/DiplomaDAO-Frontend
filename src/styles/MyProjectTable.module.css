@@ -1,0 +1,16 @@
+div.projectTable {
+    width: 100%;
+    /* overflow-x: auto; */
+  }
+
+
+td:first-child {
+  width: 100px; 
+}
+
+
+td:first-child div {
+  overflow: auto;
+  white-space: nowrap;
+}
+  
